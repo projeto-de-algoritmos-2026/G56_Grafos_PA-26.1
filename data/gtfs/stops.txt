@@ -1,0 +1,139 @@
+stop_id,stop_name,stop_lat,stop_lon
+S030,Rodoviária do Plano Piloto,-15.793889,-47.882778
+S031,Estação Central (Metrô),-15.7932,-47.8825
+S032,Esplanada dos Ministérios,-15.7998,-47.8645
+S033,Catedral Metropolitana,-15.7983,-47.8756
+S034,Setor Comercial Sul,-15.7995,-47.8830
+S035,Setor Comercial Norte,-15.7862,-47.8823
+S036,Hospital de Base,-15.8042,-47.8801
+S037,Parque da Cidade,-15.8039,-47.9122
+S038,Asa Sul 108,-15.8121,-47.8901
+S039,Asa Sul 308,-15.8204,-47.8912
+S040,Asa Sul 508,-15.8287,-47.8923
+S041,Asa Norte 102,-15.7521,-47.8850
+S042,Asa Norte 202,-15.7443,-47.8841
+S043,Asa Norte 302,-15.7365,-47.8832
+S044,UnB Darcy Ribeiro,-15.7658,-47.8708
+S045,Hospital Universitário de Brasília,-15.7669,-47.8685
+S046,Shopping Conjunto Nacional,-15.7935,-47.8820
+S047,Shopping Brasília,-15.7784,-47.8802
+S048,Setor Hoteleiro Norte,-15.7890,-47.8812
+S049,Setor Hoteleiro Sul,-15.8020,-47.8821
+S050,Estação Galeria (Metrô),-15.7940,-47.8832
+S051,Estação 102 Sul,-15.8125,-47.8905
+S052,Estação 108 Sul,-15.8160,-47.8910
+S053,Estação 112 Sul,-15.8200,-47.8915
+S054,Estação Águas Claras,-15.8350,-48.0215
+S055,Estação Arniqueiras,-15.8462,-48.0243
+S056,Estação Taguatinga Sul,-15.8420,-48.0510
+S057,Estação Taguatinga Centro,-15.8365,-48.0602
+S058,Estação Ceilândia Sul,-15.8150,-48.1100
+S059,Estação Ceilândia Centro,-15.8195,-48.1132
+S060,Estação Samambaia Sul,-15.8652,-48.0781
+S061,Estação Samambaia,-15.8730,-48.0825
+S062,Terminal Rodoviário do Gama,-16.0200,-48.0650
+S063,Hospital Regional do Gama,-16.0205,-48.0555
+S064,Centro do Gama,-16.0180,-48.0610
+S065,FGA UnB Gama (Bloco Principal),-16.0125,-48.0440
+S066,FGA UnB Gama (Bloco de Aulas),-16.0130,-48.0435
+S067,Terminal Rodoviário de Santa Maria,-16.0000,-48.0500
+S068,Santa Maria Sul,-16.0150,-48.0550
+S069,Santa Maria Norte,-15.9950,-48.0450
+S070,Recanto das Emas Centro,-15.9102,-48.0612
+S071,Terminal Recanto das Emas,-15.9150,-48.0650
+S072,Terminal Samambaia,-15.8600,-48.0750
+S073,Samambaia Norte,-15.8500,-48.0800
+S074,Guará I Terminal,-15.8200,-47.9800
+S075,Guará II Terminal,-15.8300,-47.9700
+S076,ParkShopping,-15.8340,-47.9560
+S077,Aeroporto de Brasília,-15.8697,-47.9208
+S078,Lago Sul QI 23,-15.8355,-47.8655
+S079,Lago Norte CA 5,-15.7500,-47.8300
+S080,Shopping Iguatemi,-15.7211,-47.8605
+S081,Setor de Clubes Sul,-15.8100,-47.8600
+S082,Setor de Clubes Norte,-15.7800,-47.8600
+S083,Ponte JK,-15.8215,-47.8340
+S084,Torre de TV,-15.7900,-47.8900
+S085,Estádio Mané Garrincha,-15.7835,-47.8990
+S086,Palácio do Planalto,-15.7990,-47.8640
+S087,Congresso Nacional,-15.7995,-47.8645
+S088,Tribunal de Justiça do DF,-15.7790,-47.9300
+S089,Shopping Taguatinga,-15.8345,-48.0400
+S090,Feira dos Importados,-15.7865,-47.8980
+
+S091,Vicente Pires Rua 3,-15.8050,-48.0200
+S092,Vicente Pires Rua 4,-15.8065,-48.0185
+S093,Vicente Pires Rua 6,-15.8080,-48.0170
+S094,Vicente Pires Rua 8,-15.8095,-48.0155
+S095,Vicente Pires Rua 10,-15.8110,-48.0140
+S096,Vicente Pires Rua 12,-15.8125,-48.0125
+S097,Vicente Pires Rua 8B,-15.8100,-48.0160
+S098,Vicente Pires Rua 5C,-15.8070,-48.0180
+S099,Vicente Pires Feira do Produtor,-15.8090,-48.0130
+S100,Vicente Pires Avenida Estrutural,-15.8040,-48.0215
+
+S101,Taguatinga Norte QNL 01,-15.8050,-48.0550
+S102,Taguatinga Norte QNL 15,-15.8100,-48.0600
+S103,Taguatinga Sul QSB 02,-15.8450,-48.0500
+S104,Taguatinga Sul QSC 19,-15.8400,-48.0450
+S105,Taguatinga Centro Praça do Relógio,-15.8350,-48.0600
+S106,Taguatinga Shopping Alameda,-15.8330,-48.0420
+S107,Taguatinga Avenida Comercial,-15.8380,-48.0550
+S108,Taguatinga QNA 12,-15.8200,-48.0650
+S109,Taguatinga QNB 18,-15.8250,-48.0680
+S110,Taguatinga Feira Permanente,-15.8320,-48.0580
+
+S111,Ceilândia QNM 01,-15.8000,-48.1100
+S112,Ceilândia QNM 18,-15.8100,-48.1150
+S113,Ceilândia QNP 12,-15.8200,-48.1200
+S114,Ceilândia QNN 05,-15.8300,-48.1050
+S115,Ceilândia QNO 10,-15.8350,-48.1080
+S116,Ceilândia Feira Central,-15.8180,-48.1120
+S117,Ceilândia Hospital Regional,-15.8220,-48.1180
+S118,Ceilândia Expansão,-15.8400,-48.1250
+S119,Ceilândia P Norte,-15.8100,-48.1220
+S120,Ceilândia P Sul,-15.8250,-48.1150
+
+S121,Samambaia QR 101,-15.8600,-48.0800
+S122,Samambaia QR 202,-15.8650,-48.0820
+S123,Samambaia QR 302,-15.8700,-48.0850
+S124,Samambaia QR 402,-15.8750,-48.0880
+S125,Samambaia QR 502,-15.8800,-48.0900
+S126,Samambaia Centro Comercial,-15.8680,-48.0830
+S127,Samambaia Hospital,-15.8720,-48.0870
+S128,Samambaia Sul Quadra 120,-15.8780,-48.0890
+S129,Samambaia Norte Quadra 210,-15.8580,-48.0790
+S130,Samambaia Expansão,-15.8850,-48.0920
+
+S131,Recanto QD 101,-15.9100,-48.0600
+S132,Recanto QD 201,-15.9150,-48.0620
+S133,Recanto QD 301,-15.9200,-48.0640
+S134,Recanto QD 401,-15.9250,-48.0660
+S135,Recanto QD 501,-15.9300,-48.0680
+S136,Recanto Comercial,-15.9180,-48.0630
+S137,Recanto Hospital,-15.9220,-48.0670
+S138,Recanto Feira,-15.9170,-48.0610
+S139,Recanto Parque,-15.9260,-48.0690
+S140,Recanto Expansão,-15.9350,-48.0700
+
+S141,Guará QE 01,-15.8200,-47.9800
+S142,Guará QE 15,-15.8250,-47.9750
+S143,Guará QE 25,-15.8300,-47.9700
+S144,Guará QE 35,-15.8350,-47.9650
+S145,Guará QE 45,-15.8400,-47.9600
+S146,Guará Feira,-15.8280,-47.9720
+S147,Guará Polo de Modas,-15.8320,-47.9680
+S148,Guará ParkShopping Acesso,-15.8340,-47.9560
+S149,Guará Hospital,-15.8290,-47.9710
+S150,Guará Expansão,-15.8420,-47.9580
+
+S151,Águas Claras Rua 12 Sul,-15.8350,-48.0200
+S152,Águas Claras Rua 24 Sul,-15.8400,-48.0220
+S153,Águas Claras Rua 36 Sul,-15.8450,-48.0240
+S154,Águas Claras Avenida Araucárias,-15.8380,-48.0210
+S155,Águas Claras Avenida Castanheiras,-15.8420,-48.0230
+S156,Águas Claras Parque,-15.8360,-48.0190
+S157,Águas Claras Shopping,-15.8390,-48.0205
+S158,Águas Claras Estação Concessionárias,-15.8340,-48.0180
+S159,Águas Claras Hospital,-15.8430,-48.0250
+S160,Águas Claras Expansão,-15.8470,-48.0260
