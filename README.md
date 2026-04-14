@@ -7,9 +7,14 @@ Faculdade do Gama (FGA), Universidade de Brasília (UnB).
 
 ---
 
+
+## Apresentação
+
+[![Apresentação em Vídeo](https://img.youtube.com/vi/kuGAh_TVdt0/0.jpg)](https://youtu.be/kuGAh_TVdt0)
 ## Problema
 
 Um estudante da FGA mora em outra região administrativa do DF
+
 (Plano Piloto, Vicente Pires, Santa Maria, Taguatinga, Samambaia…) e precisa
 saber qual combinação de linhas de ônibus minimiza o tempo total de viagem
 até o campus — possivelmente com baldeação.
